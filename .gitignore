@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Large files for this project which don't need to be revisioned
+kaggle_tmdb_archive.zip
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+
+
 # C extensions
 *.so
 
