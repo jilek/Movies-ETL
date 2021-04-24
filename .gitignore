@@ -5,9 +5,9 @@ __pycache__/
 
 # Large files for this project which don't need to be revisioned
 kaggle_tmdb_archive.zip
-movies_metadata.csv
-ratings.csv
-wikipedia-movies.json
+#movies_metadata.csv
+#ratings.csv
+#wikipedia-movies.json
 config.py
 
 # C extensions
